@@ -1,0 +1,7 @@
+print "Hello World!"
+print "Use this project for whatever you want..."
+print "Although I really don't see why you would ever do that"
+print "I mean, I don't even know why I'm still writing this.."
+print "This code is kinda useless, don't you think?"
+print "But it's AWESOME!"
+print "Bye!"
